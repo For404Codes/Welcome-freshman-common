@@ -1,4 +1,4 @@
-package com.righteous.innovate.wscommon;
+package com.righteous.innovate.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

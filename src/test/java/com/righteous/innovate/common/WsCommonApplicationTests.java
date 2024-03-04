@@ -1,4 +1,4 @@
-package com.righteous.innovate.wscommon;
+package com.righteous.innovate.common;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
